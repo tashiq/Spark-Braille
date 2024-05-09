@@ -1,0 +1,29 @@
+runtime: python27
+threadsafe: yes
+
+handlers:
+- url: /favicon.ico
+  static_files: favicon.ico
+  upload: favicon.ico
+- url: /privacypolicy.htm
+  static_files: privacypolicy.htm
+  upload: privacypolicy.htm
+- url: /js
+  static_dir: js
+- url: /css
+  static_dir: css 
+- url: /fonts
+  static_dir: fonts
+- url: /images
+  static_dir: images
+- url: /resources
+  static_dir: resources
+- url: /.*
+  script: website.app
+
+
+libraries:
+- name: webapp2
+  version: "latest"
+- name: jinja2
+  version: "latest"
