@@ -5,4 +5,4 @@
 ## Single Page Application
 ![screencapture-tashiq-github-io-Spark-Braille-2024-11-05-13_02_11](https://github.com/user-attachments/assets/8b4c6054-5dd4-4542-8831-7541cf494cb4)
 ## Give a Visit
-![Visit](https://tashiq.github.io/Spark-Braille/) our website.
+[Visit](https://tashiq.github.io/Spark-Braille/) our website.
